@@ -1,6 +1,6 @@
 # flutter_crypto
 
-A new Flutter project.
+A new Flutter project with listview which shows all cryptocurrencies.
 
 ## Getting Started
 
